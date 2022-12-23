@@ -3,7 +3,7 @@
 html {scroll-behavior: smooth;}
 
 body {
-    background-image: url(../imagens/fundo.jpg);
+    background-image: url(../imagens/fundo.png);
 }
 
 div {
@@ -139,4 +139,4 @@ p {
     #topo{margin-bottom: 1%;}
 }
 
-footer{color:rgb(201, 193, 216);}
+footer{color}
